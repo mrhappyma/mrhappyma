@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px"> Hi, I'm Dominic!
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/606526727753170969
                             )](https://discord.com/users/606526727753170969)
 
