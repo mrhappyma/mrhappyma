@@ -34,8 +34,13 @@ If I'm ever on an actual cabale computer I use ![Visual Studio Code](https://img
 
 [<img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white">](http://reddit.com/u/mrhappymana) [<img src="https://img.shields.io/badge/Email-D14836logo=gmail&logoColor=white">](mailto:dominic@userexe.me)
 
+<h2>What I'm Doing</h2>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/606526727753170969)](https://discord.com/users/606526727753170969)
+                            
 <h2>Statistics</h2>
-soon (tm)
+
+
 
 <br>
 <br>
