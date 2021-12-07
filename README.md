@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Dominic!
+<img src="https://raw.githubusercontent.com/mrhappyma/mrhappyma/master/wave.gif" width="30px"> Hi, I'm Dominic!
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/606526727753170969
                             )](https://discord.com/users/606526727753170969)
