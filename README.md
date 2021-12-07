@@ -10,3 +10,8 @@
 random joke go brrr
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+also join my basement cause why not 
+
+<p align="center"><a href="https://discord.gg/a3rBjWpWuc"><img src="https://discordapp.com/api/guilds/907459973305495592/widget.png?style=banner=1"/></a></p>
+
