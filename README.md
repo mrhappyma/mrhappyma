@@ -4,7 +4,7 @@
 
 I know ![English](https://img.shields.io/badge/english-%23E34F26.svg).
 
-I know   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)(if that counts as a language).
+I know ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)(if that counts as a language).
 
 I know (slightly) limited ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E).
 
@@ -14,7 +14,7 @@ I know (very) limited ![HTML](https://img.shields.io/badge/html-%23E34F26.svg) a
 
 I use ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white) most of the time (since Chromebooks are cheap). I do stuff with the ![Debian](https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white) a lot.
 
-I *ocasionally* use ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0).
+I _ocasionally_ use ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0).
 
 <h2> Browser </h2>
 
@@ -37,7 +37,7 @@ If I'm ever on an actual cabale computer I use ![Visual Studio Code](https://img
 <h2>What I'm Doing</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/606526727753170969)](https://discord.com/users/606526727753170969)
-                            
+
 <h2>Statistics</h2>
 
 ![mrhappyma's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhappyma&show_icons=true&theme=dark&hide_title=true)
@@ -45,9 +45,6 @@ If I'm ever on an actual cabale computer I use ![Visual Studio Code](https://img
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhappyma&layout=compact&theme=dark)
 <br>
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=userexe&layout=compact&theme=dark)
-
-
-
 
 <br>
 <br>
