@@ -2,4 +2,4 @@
 
 My profile is currently **under construction**.
 
-Last [![Updated Badge](https://badges.pufler.dev/updated/mrhappyma/mrhappyma)]()
+Last [![Updated Badge](https://badges.pufler.dev/updated/mrhappyma/mrhappyma)](https://github.com/mrhappyma/mrhappyma/blob/main/README.md)
