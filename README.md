@@ -45,9 +45,3 @@ If I'm ever on an actual cabale computer I use ![Visual Studio Code](https://img
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhappyma&layout=compact&theme=dark)
 <br>
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=userexe&layout=compact&theme=dark)
-
-<br>
-<br>
-<br>
-
-Last [![Updated Badge](https://badges.pufler.dev/updated/mrhappyma/mrhappyma)](https://github.com/mrhappyma/mrhappyma/blob/main/README.md). Got any suggestions? Did I mess something up in my formatting? [Create an issue](https://github.com/mrhappyma/mrhappyma/issues/new/choose).
