@@ -1,4 +1,1 @@
-```console
-$ stats
-
-```.md
+2.md
