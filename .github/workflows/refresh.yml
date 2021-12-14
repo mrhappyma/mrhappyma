@@ -39,5 +39,11 @@ jobs:
           echo -e "\`\`\`console\n\$ stats\n${ID}\n\`\`\`"
           echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`".md > README.md 
           
-
+      - name: Commit & Push changes
+        run: |
+          git add STATS.md
+          git config --global user.name 'Auto'
+          git config --global user.email 'auto@example.com'
+          git commit -am 'Automatic update' || true
+          git push
           
