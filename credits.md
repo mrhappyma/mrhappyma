@@ -1,7 +1,7 @@
 ## Credits
 
 ### 1
-No credits, entirley mine!
+Waving gif stolen from... I forget where. Sorry!
 
 ### 2
 Modified from [macedonga](//github.com/macedonga).
