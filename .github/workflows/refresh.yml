@@ -25,11 +25,12 @@ jobs:
       
       - name: get a random number
         run: |
-           - let ID=$((1 + RANDOM % 2))
+           - let ID=${random.int(1000)}
+
            
       - name: Compile the README.md file
         run: |
-          cat $(MR_ID).md > README.md
+          cat $(ID).md > README.md
           
       - name: Commit & Push changes
         run: |
