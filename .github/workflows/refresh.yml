@@ -25,7 +25,7 @@ jobs:
       
       - name: get a random number
         run: |
-           - let MR_ID=$((1 + RANDOM % 2))
+           - let ID=$((1 + RANDOM % 2))
            
       - name: Compile the README.md file
         run: |
