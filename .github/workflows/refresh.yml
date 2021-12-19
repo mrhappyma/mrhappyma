@@ -25,13 +25,13 @@ jobs:
     
       - name: Merge the stats with prefix & postfix string
         run: |
-          stats=$(curl -X GET "https://shitdev.nl/api/wakatime_text?username=userexe&editors=6&languages=6")
+          stats=$(curl -X GET "https://shitdev.nl/api/wakatime_text?username=macedonga&editors=6&languages=6")
           echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`"
           echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`" > STATS.md
       - name: Compile the 2.md file
         run: |
           cat NEOFETCH.md STATS.md > 2.md
-    
+          
       - name: Change out the README.md file
         run: |
           ID=$(curl -X GET "http://www.randomnumberapi.com/api/v1.0/random?min=1&max=2")
@@ -40,6 +40,7 @@ jobs:
       - name: Commit & Push changes
         run: |
           git add STATS.md
+          git add README.md
           git config --global user.name 'Auto'
           git config --global user.email 'auto@example.com'
           git commit -am 'Automatic update' || true
