@@ -22,7 +22,7 @@ I _ocasionally_ use ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=
 
 <h2>Editors/IDEs</h2>
 
-I use ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?logo=codesandbox&logoColor=DBDBDB) whenever I just need to test out some code quickley.
+I use ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?logo=codesandbox&logoColor=DBDBDB) whenever I just need to test out some code quickly.
 
 I almost never get to work on a very powerful machine, so I use online editors/IDEs. My favorites that I jump between are ![Autocode](https://img.shields.io/badge/Autocode-blue) and ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?logo=replit&logoColor=white).
 
