@@ -30,5 +30,6 @@ jobs:
           target_branch: main
           build_dir: dist
           keep_history: true
+          commit_message: update snake images [Skip Github Action]
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
