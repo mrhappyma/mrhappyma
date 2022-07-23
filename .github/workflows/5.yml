@@ -16,6 +16,8 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      - uses: actions/checkout@v2
+      
       - name: generate snake images
         uses: Platane/snk/svg-only@v2
         with:
