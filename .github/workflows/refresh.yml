@@ -19,5 +19,7 @@ jobs:
           
       - name: Commit & Push changes
         run: |
+          git add STATS.md
           git add README.md
+          git commit -am 'Automatic update [Skip Github Action]' || true
           git push
