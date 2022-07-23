@@ -11,7 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:          
+    steps:    
+    
+      - uses: actions/checkout@v2
+      
       - name: Change out the README.md file
         run: |
           ID=$(curl -X GET "http://www.randomnumberapi.com/api/v1.0/random?min=1&max=4")
