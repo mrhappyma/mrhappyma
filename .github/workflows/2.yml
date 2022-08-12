@@ -27,7 +27,8 @@ jobs:
           cat NEOFETCH.md STATS.md > 2.md
       - name: Commit & Push changes
         run: |
-          git add STATS.md
-          git add README.md
-          git commit -am 'Automatic update [Skip Github Action]' || true
+          git config --global user.name 'Auto'
+          git config --global user.email 'auto@example.com'
+          git add .
+          git commit -am 'Update wakatime stats [Skip Github Action]' --allow-empty || true
           git push
