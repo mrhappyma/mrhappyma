@@ -1,2 +1,2 @@
-![nutrition label me :)](./light-3.png#gh-light-mode-only)
-![nutrition label me :)](./dark-3.png#gh-dark-mode-only)
+![github contribution graph snake](./github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution graph snake](./github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
