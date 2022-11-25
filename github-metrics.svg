@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="296.811845351353" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="296.811845351353" y="0" width="42.76577048308172" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="339.5776158344347" y="0" width="29.160842366513492" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="368.73845820094823" y="0" width="26.472110829679494" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="395.21056903062777" y="0" width="23.64586877682272" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="418.85643780745045" y="0" width="18.64767336829743" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="437.5041111757479" y="0" width="16.662532355130686" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="454.16664353087856" y="0" width="5.833356469121471" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="296.55106570876194" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="296.55106570876194" y="0" width="43.13235353882656" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="339.6834192475885" y="0" width="29.135221576207805" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="368.81864082379633" y="0" width="26.44885236574379" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="395.2674931895401" y="0" width="23.62509345634629" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="418.8925866458864" y="0" width="18.6312894750253" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="437.5238761209117" y="0" width="16.647892611804107" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="454.1717687327158" y="0" width="5.828231267284183" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1392,6 +1392,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#1f08f90</div>
+                                        <div class="message">update snake images [Skip Github Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mrhappyma/discord-link</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1439178</div>
+                                        <div class="message">progress</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mrhappyma/mrhappyma</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#6a8a0e4</div>
                                         <div class="message">update snake images [Skip Github Action]</div>
                                     </div>
@@ -1438,46 +1478,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mrhappyma/mrhappyma</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#619c848</div>
-                                        <div class="message">update snake images [Skip Github Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mrhappyma/mrhappyma</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ab20a0c</div>
-                                        <div class="message">update snake images [Skip Github Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1501,7 +1501,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2022, 16:10:04 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 25 Nov 2022, 16:19:26 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
