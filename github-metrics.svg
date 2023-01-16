@@ -334,9 +334,9 @@
                             user____exe
                         </div>
                         <div class="tweet">
-                            <span class="mention">@elonmusk</span>
-                            seriously. please fix this.
-                            <div class="date">15:31:15 on 14 Jan 2023</div>
+                            <span class="mention">@linuxopsys</span>
+                            You're missing a couple of penguins
+                            <div class="date">18:06:19 on 16 Jan 2023</div>
                         </div>
                     </section>
                 </div>
@@ -1500,7 +1500,7 @@ I'll wait for one of you to confirm that. This PR has been a bit of a mess
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2023, 17:10:00 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 16 Jan 2023, 18:10:15 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
