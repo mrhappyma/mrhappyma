@@ -31,8 +31,8 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
            <span data-translate="error">Error</span>
            <span>1033</span>
          </h1>
-         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 79c73a367e620c13 &bull;</span>
-         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2023-02-20 12:25:52 UTC</span>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 79c78be04eb75b3a &bull;</span>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2023-02-20 13:21:37 UTC</span>
         <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">Argo Tunnel error</h2>
       </header>
 
@@ -65,12 +65,12 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">79c73a367e620c13</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">79c78be04eb75b3a</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">40.77.45.147</span>
+      <span class="hidden" id="cf-footer-ip">52.226.28.161</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
