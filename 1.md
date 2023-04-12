@@ -7,6 +7,8 @@ there used to be a lot of information here but i removed it cause its all pretty
 
 <details>
   <summary><h2>Statistics</h2></summary>
+  
+these also look like they might be a little off i havent had that many commits this year... or have I? where are they coming from then???
 
 ![mrhappyma's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhappyma&show_icons=true&theme=dark&hide_title=true)
 <br>
