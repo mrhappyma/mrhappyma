@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -209,7 +209,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    31 Languages
+                    18 Languages
                 </h2>
             </section>
             <section class="column">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.9580530430149" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="256.9580530430149" y="0" width="84.2122637579656" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="341.1703168009805" y="0" width="28.916779845152817" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="370.0870966461333" y="0" width="25.2534424618096" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="395.34053910794296" y="0" width="22.924986846320856" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="418.2655259542638" y="0" width="16.148982959205984" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="434.41450891346983" y="0" width="14.429840428119407" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="448.84434934158924" y="0" width="11.155650658410835" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.7998211865946" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="256.7998211865946" y="0" width="84.4436695863543" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="341.2434907729489" y="0" width="28.898973219898576" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="370.1424639928475" y="0" width="25.23789167819175" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="395.38035567103924" y="0" width="22.91086989927776" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="418.291225570317" y="0" width="16.139038598549938" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="434.4302641688669" y="0" width="14.420954695947362" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="448.8512188648143" y="0" width="11.148781135185729" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1351,6 +1351,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">mrhappyma/techdotexe-utils</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f154225</div>
+                                        <div class="message">indeed</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">mrhappyma/mrhappyma</span>
                                     </div>
                                 </div>
@@ -1412,26 +1432,6 @@ why do you exist</div>
                                         Created new
                       repository
                                         <span class="repo">mrhappyma/clash-royale-tournament-display</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mrhappyma/mrhappyma</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8d0cd65</div>
-                                        <div class="message">update snake images [Skip Github Action]</div>
                                     </div>
                                 </div>
                             </section>
@@ -1499,7 +1499,7 @@ why do you exist
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2023, 17:07:34 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Jul 2023, 18:08:04 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
