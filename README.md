@@ -3,6 +3,9 @@
 there used to be a lot of information here but i removed it cause its all pretty much outdated
 [go check out my website](https://userexe.me)
 
+### i've started moving most of my (more active) projects to [Sourcehut](https://git.sr.ht/~domthedome/)
+you might want to look there (:
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/606526727753170969)](https://discord.com/users/606526727753170969)
 
 <details>
